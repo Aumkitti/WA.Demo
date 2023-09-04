@@ -1,0 +1,11 @@
+.dialogbox .body{
+    position: sticky;
+    max-width: 600px;
+    height: 30px;
+    margin: 20px 10px;
+    padding: auto;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+
+}
